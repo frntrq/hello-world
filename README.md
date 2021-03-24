@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository
+Hello Humans,
+Faran here, I like programming, gaming and watching TV shows.
